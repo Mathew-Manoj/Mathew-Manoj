@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mathew Manoj!
+# 👋 Hey There, I'm Mathew Manoj!
 
 I'm an **aspiring Cybersecurity Engineer** with a deep curiosity for **digital forensics**, ethical hacking, and how new technologies shape our connected world.  
 While security is my core focus, I also enjoy designing engaging and intuitive user experiences with tools like **Figma**.
