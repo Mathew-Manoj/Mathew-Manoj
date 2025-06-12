@@ -36,7 +36,7 @@ Whether it's crafting a responsive UI or understanding how attackers think, I lo
 ## 🌐 Live Website
 
 Check out my portfolio:  
-🔗 [mathewmanoj.github.io/Portfolio](https://mathewmanoj.github.io/Portfolio)
+🔗 [mathew-manoj.github.io/Portfolio](https://mathew-manoj.github.io/Portfolio/)
 
 ---
 
