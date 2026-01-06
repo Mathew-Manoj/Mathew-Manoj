@@ -1,4 +1,12 @@
-# 👋 Hey There, I'm Mathew Manoj!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20There,%20I'm%20Mathew%20Manoj!&fontSize=32&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cybersecurity+Engineer;Digital+Forensics+%26+Ethical+Hacking;UI%2FUX+%2B+Technology+Enthusiast&font=Fira+Code&center=true&width=520&height=45" />
+</p>
+
+---
 
 I'm an **aspiring Cybersecurity Engineer** with a deep curiosity for **digital forensics**, ethical hacking, and how new technologies shape our connected world.  
 While security is my core focus, I also enjoy designing engaging and intuitive user experiences with tools like **Figma**.
@@ -43,5 +51,9 @@ Check out my portfolio:
 ## 📬 Contact Me
 
 - 📧 Gmail: [mathewmanoj09@gmail.com](mailto:mathewmanoj09@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/mathew-manoj-78b047327](https://www.linkedin.com/in/mathew-manoj-78b047327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🔗 LinkedIn: [linkedin.com/in/mathew-manoj-78b047327](https://www.linkedin.com/in/mathew-manoj-78b047327)  
 - 💻 GitHub: [github.com/Mathew-Manoj](https://github.com/Mathew-Manoj)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" />
+</p>
