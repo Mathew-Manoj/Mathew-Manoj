@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20There,%20I'm%20Mathew%20Manoj!&fontSize=32&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=HELLO%20I%20AM%20MATHEW%20MANOJ&fontSize=32&fontColor=39FF14&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Cybersecurity+Engineer;Digital+Forensics+%26+Ethical+Hacking;UI%2FUX+%2B+Technology+Enthusiast&font=Fira+Code&center=true&width=520&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=ASPIRING+CYBERSECURITY+ENGINEER;DIGITAL+FORENSICS+%26+ETHICAL+HACKING;UI%2FUX+%2B+TECHNOLOGY+ENTHUSIAST&font=Fira+Code&color=39FF14&center=true&width=560&height=45" />
 </p>
 
 ---
@@ -55,5 +55,5 @@ Check out my portfolio:
 - 💻 GitHub: [github.com/Mathew-Manoj](https://github.com/Mathew-Manoj)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=80&section=footer" />
 </p>
